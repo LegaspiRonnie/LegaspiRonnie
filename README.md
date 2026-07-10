@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🎓 **BSIT Graduate** — University of Eastern Pangasinan (2022–2026), Capstone Leader & Lead Programmer
-- 💼 **Junior Full Stack Developer(Intern)** at AeonSprint Solutions Inc.
+- 💼 **Junior Full Stack Developer (Intern)** at AeonSprint Solutions Inc.
 - 🛠️ Building full-stack web apps with **Laravel + React/Vue** — from database design to UI/UX
 - 🇵🇭 Passionate about **civic tech** — creating practical tools for the Philippine job market
 - 🎤 Co-hosted a webinar on *"Bridging AI, Startups, and Secure Governance"*
@@ -36,13 +36,12 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  -- REPLACE THIS WITH TAILWIND CSS
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Game Development
@@ -55,7 +54,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
--- ADD WAMP AND HERD
+![WAMP](https://img.shields.io/badge/WAMP-F16524?style=for-the-badge&logo=windows&logoColor=white)
+![Laravel Herd](https://img.shields.io/badge/Laravel_Herd-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### AI-Assisted Development
 ![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -97,12 +97,11 @@
 
 <div align="center">
 
-<!-- ⚠️ Replace YOUR_USERNAME with your actual GitHub username -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LegaspiRonnie&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LegaspiRonnie&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LegaspiRonnie&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=LegaspiRonnie&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -126,6 +125,6 @@ Open to opportunities in **Software Development** • **Web Development** • **
 
 ⭐ *From Pangasinan with code* ⭐
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=LegaspiRonnie&color=blueviolet&style=flat-square)
 
 </div>
