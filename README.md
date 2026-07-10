@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🎓 **BSIT Graduate** — University of Eastern Pangasinan (2022–2026), Capstone Leader & Lead Programmer
-- 💼 **Junior Full Stack Developer** at AeonSprint Solutions Inc.
+- 💼 **Junior Full Stack Developer(Intern)** at AeonSprint Solutions Inc.
 - 🛠️ Building full-stack web apps with **Laravel + React/Vue** — from database design to UI/UX
 - 🇵🇭 Passionate about **civic tech** — creating practical tools for the Philippine job market
 - 🎤 Co-hosted a webinar on *"Bridging AI, Startups, and Secure Governance"*
