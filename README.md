@@ -1,99 +1,144 @@
-<div align="center">
+ <div align="center">
 
-# 👋 Hi, I'm Ronnie Legaspi
+# Hi, I'm Ronnie Legaspi 👋
 
-### Junior Full Stack Web Developer | Laravel • React • MySQL
+### Backend Developer | API Integrations | PHP • Laravel • MySQL
+
+**Building backend systems, integrating APIs, and developing practical web applications.**
 
 📍 Pangasinan, Philippines 🇵🇭
 
 [![Email](https://img.shields.io/badge/Email-ronnielegaspi98%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronnielegaspi98@gmail.com)
-[![Portfolio](https://img.shields.io/badge/JobDocs_Roadmap-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jobdocs-roadmap.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://ronnie-legaspi-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-LegaspiRonnie-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LegaspiRonnie)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 **BSIT Graduate** — University of Eastern Pangasinan (2022–2026), Capstone Leader & Lead Programmer
-- 💼 **Junior Full Stack Developer (Intern)** at AeonSprint Solutions Inc.
-- 🛠️ Building full-stack web apps with **Laravel + React/Vue** — from database design to UI/UX
-- 🇵🇭 Passionate about **civic tech** — creating practical tools for the Philippine job market
-- 🎤 Co-hosted a webinar on *"Bridging AI, Startups, and Secure Governance"*
-- 🌱 Currently exploring **AI-assisted development** workflows
+I'm a **Backend Developer at Kooapps Inc.**, with experience in backend development, API integrations, database operations, and full-stack web application development.
+
+My professional experience includes working with PHP, Laravel, MySQL, REST APIs, and modern JavaScript frameworks. I also take on freelance development projects, building and improving web applications based on different client and project requirements.
+
+- 💼 **Backend Developer** at Kooapps Inc. — September 2026–Present
+- 🔌 Focused on **API integrations, backend tasks, and application functionality**
+- 🛠️ Previous experience in full-stack web development using Laravel, React, and Vue.js
+- 💻 Freelance Developer — 2025–Present
+- 🌱 Continuously improving my skills in backend architecture, API development, and software engineering practices
 
 ---
 
-## 🧰 Tech Stack
+## 💼 Professional Experience
 
-### Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### Backend Developer — Kooapps Inc.
+**September 8, 2026 – Present**
+
+- Develop and maintain backend functionality for application features and internal systems.
+- Work on **API integrations**, connecting application services and handling data exchange.
+- Handle backend development tasks involving application logic, data processing, and database operations.
+- Investigate issues, troubleshoot errors, and support application reliability.
+- Collaborate with team members through established development workflows, version control, and code reviews.
+
+### Web Developer — AeonSprint Solutions Inc.
+**May 2026 – August 2026**
+
+*Absorbed following internship*
+
+- Contributed to the development and maintenance of web applications using **Laravel** and modern JavaScript frameworks.
+- Worked on backend functionality, REST API integrations, and database operations.
+- Assisted with bug fixing, performance improvements, and ongoing application maintenance.
+- Contributed to UI/UX enhancements and the development of internal mini-applications.
+
+### Web Development Intern — AeonSprint Solutions Inc.
+**February 2026 – April 2026**
+
+- Completed a web development internship involving full-stack application development.
+- Contributed to an **NFC-based attendance application** built with Laravel and React.
+- Assisted in developing mini-applications integrated into the main system, including BadgerMint-related features.
+- Supported database improvements, UI/UX enhancements, and application maintenance.
+- Co-hosted a webinar on *Bridging AI, Startups, and Secure Governance*.
+
+### Freelance Developer
+**2025 – Present**
+
+- Build and improve web applications for personal projects and freelance requirements.
+- Develop application interfaces and backend functionality using relevant web technologies.
+- Work with databases, API integrations, and CRUD operations.
+- Apply responsive design principles, troubleshoot issues, and refine existing features.
+
+---
+
+## 🧰 Technical Skills
+
+### Backend Development
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Frontend
+### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Tools & Platforms
+### Tools & Development Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![WAMP](https://img.shields.io/badge/WAMP-F16524?style=for-the-badge&logo=windows&logoColor=white)
-![Laravel Herd](https://img.shields.io/badge/Laravel_Herd-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-### AI-Assisted Development
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects
 
-### 🏢 AeonSprint Solutions Inc. — Junior Full Stack Developer
-**April 2026 – Present**
-- ⚙️ Develop and maintain web applications using **Laravel** (backend) with **React, Livewire, and Filament v3** (frontend)
-- 🔌 Integrate APIs, resolve bugs, and monitor system performance to ensure application stability
-- 🗄️ Manage databases and support ongoing system maintenance and enhancements
+### 🚨 Smart Barangay Incident Reporting System (SBIRS)
 
-### 🏢 AeonSprint Solutions Inc. — Junior Full Stack Developer (Intern)
-**February 2026 – April 2026**
-- 📲 Contributed to an **NFC-based attendance application** built with Laravel + React.js
-- 🧩 Developed mini applications integrated into the main system (**BadgerMint**)
-- 🎨 Worked on system optimization, database architecture, and UI/UX improvements
-- 🎤 Co-hosted a webinar on AI, startups, and secure governance
+A full-stack incident reporting platform designed to help communities report and manage incidents through a centralized system.
+
+**Key features:**
+- REST API authentication using Laravel Sanctum
+- Incident reporting with photo uploads and map-based location tagging
+- Role-based access control and administrative tools
+- QR-based guest reporting and analytics dashboard
+
+**Tech stack:** `Laravel 12` `React` `TypeScript` `MySQL` `Recharts`
+
+### 📋 BadgerMint
+
+An attendance and event management application supporting attendance tracking and event registration.
+
+**Tech stack:** `Laravel` `MySQL` `JavaScript`
+
+### 🗺️ JobDocs Roadmap
+
+A web-based guide that helps Filipino job seekers navigate employment document requirements, including procedures, locations, and estimated costs.
+
+**[View Live Project →](https://jobdocs-roadmap.vercel.app)**
+
+**Tech stack:** `React.js` `JavaScript` `Vercel`
+
+### 🎮 The Tales of Carlos Bulosan: A Hero's Journey
+
+A game-based learning project promoting Filipino culture through interactive gameplay and educational storytelling.
+
+**Tech stack:** `Unity` `C#` `Laravel` `Vue.js` `MySQL`
 
 ---
 
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🚨 **Smart Barangay Incident Reporting System (SBIRS)** | Full-stack incident reporting platform with photo uploads, map-based location tagging, Sanctum API auth, role-based access control, QR guest reporting, and an admin analytics dashboard | `Laravel 12` `React` `TypeScript` `MySQL` `Recharts` |
-| 🎮 **The Tales of Carlos Bulosan: A Hero's Journey** | 3D game-based learning platform promoting Filipino culture through gamified, interactive education | `Unity` `C#` `Laravel` `Vue.js` `MySQL` |
-| 🗺️ **[JobDocs Roadmap](https://jobdocs-roadmap.vercel.app)** | Web-based guide helping Filipino fresh graduates navigate employment document requirements — procedures, locations, and estimated costs | `React.js` `Vercel` |
-| 📋 **BadgerMint** | Attendance & event management system with attendance tracking and event registration | `Laravel` `MySQL` |
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -109,22 +154,22 @@
 
 ## 🎓 Education
 
-**University of Eastern Pangasinan (UEP)** — *2022–2026*
-🎖️ Bachelor of Science in Information Technology (BSIT)
-👑 Capstone Leadership & Lead Programmer
+**Bachelor of Science in Information Technology (BSIT)**  
+University of Eastern Pangasinan · 2022–2026
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect!
+## 💬 Let's Connect
 
-Open to opportunities in **Software Development** • **Web Development** • **Technical Support**
+Interested in backend development, API integrations, and building useful software.
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-ronnielegaspi98%40gmail.com-blue?style=flat-square)](mailto:ronnielegaspi98@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email_Me-ronnielegaspi98%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronnielegaspi98@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-181717?style=for-the-badge&logo=vercel&logoColor=white)](https://ronnie-legaspi-portfolio.vercel.app/)
 
 ⭐ *From Pangasinan with code* ⭐
 
-![Profile Views](https://komarev.com/ghpvc/?username=LegaspiRonnie&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=LegaspiRonnie&color=2563EB&style=flat-square)
 
 </div>
